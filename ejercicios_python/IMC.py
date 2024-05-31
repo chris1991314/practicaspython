@@ -57,8 +57,3 @@ print(f"Peso en kg: {peso:.2f}")
 print(f"Estatura en metros: {estatura}")
 print(f"Tu IMC es: {indice_masa_corporal:.2f}")
 print(f"Clasificación: {clasificacion}")
-
-if __name__ == "__main__":
-    main()
-
-    
